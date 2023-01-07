@@ -1,0 +1,16 @@
+.navbar {
+    background-color: rgb(4, 19, 52);
+    height: 5rem;
+}
+div p span {
+    color: rgb(4, 19, 52);
+}
+body {
+    background-color: whitesmoke;
+}
+.y2 {
+    font-size: small;
+}
+.down {
+    min-height: 3.5rem;
+}
