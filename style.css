@@ -14,3 +14,7 @@ body {
 .down {
     min-height: 3.5rem;
 }
+main .container {
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px grey;
+}
