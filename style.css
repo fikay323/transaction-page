@@ -18,3 +18,12 @@ main .container {
     border-radius: 10px;
     box-shadow: 1px 1px 10px 1px grey;
 }
+@media (max-width: 500px) {
+    .navbar{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    main .container {
+        width: 90vw;
+    }
+}
